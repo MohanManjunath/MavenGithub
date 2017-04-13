@@ -8,6 +8,7 @@ public class MavenTest {
 	@Test
 	public void test()
 	{
+		//Hello
 		Reporter.log("Hi",true);
 	}
 
